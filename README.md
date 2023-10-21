@@ -28,3 +28,9 @@
 [Perl]: https://www.perl.org/
 
 </div>
+
+------------------
+
+### p.s
+
+tutte le repo pubbliche servono a me oppure sono per scuola,quindi se mai qualcuno volesse usarle dovrebbe modificare qualche path o simili,il codice non é strutturato nel migliore dei modi possibili e non c'é una grandissima documentazione proprio per il fatto che sono progettini molto semplici che servono a me
