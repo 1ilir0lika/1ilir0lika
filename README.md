@@ -27,6 +27,15 @@
 
 [Perl]: https://www.perl.org/
 
+## os
+Desktop:
+
+<img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg"  height="200px"/>
+
+Laptop:
+
+<img src="https://www.gentoo.org/assets/img/logo/gentoo-logo.svg"  height="200px"/>
+
 </div>
 
 ------------------
