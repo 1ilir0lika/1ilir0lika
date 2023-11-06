@@ -27,7 +27,7 @@
 
 [Perl]: https://www.perl.org/
 
-## os
+## sistema operativo
 Desktop:
 
 <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg"  height="200px"/>
