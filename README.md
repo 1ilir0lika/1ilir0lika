@@ -2,6 +2,10 @@
 
 ## cosa mi appassiona
 
+## le mie esperienze
+
+## il mio stack
+
 ------------------
 
 ### p.s
