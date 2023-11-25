@@ -1,10 +1,12 @@
 ## chi sono
-
+sono uno studente che frequenta un liceo scientifico tradizionale
 ## cosa mi appassiona
 
 ## le mie esperienze
 
 ## il mio stack
+
+## i miei hobby
 
 ------------------
 
