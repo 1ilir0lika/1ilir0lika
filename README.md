@@ -1,12 +1,23 @@
 ## chi sono
-sono uno studente che frequenta un liceo scientifico tradizionale
-## cosa mi appassiona
-
-## le mie esperienze
-
+Sono uno studente che frequenta un liceo scientifico tradizionale
 ## il mio stack
+Sono un forte sostenitore del software libero,quindi dipendo eslusivamente da quello
+### os
+Ho una lunga esperienza con linux,adesso mi trovo ad usare arch sul fisso e gentoo sul portatile oltre a openbsd sul mio homeserver
+### lang
+mi diverte scrivere codice in python,perl ed R per manipolare dati e rappresentarli 
 
+per i progetti piú grandi prediligo invece rust
+### text editor
+mi trovo molto bene con neovim,ma ultimamente son passato a vscodium
 ## i miei hobby
+Mi piace ascoltare la musica,in particolar modo la musica ambient
+
+Mi piace andare in palestra
+
+Mi diverte giocare a scacchi sebbene sia molto scarso
+
+Mi piace leggere libri non di narrativa
 
 ------------------
 
