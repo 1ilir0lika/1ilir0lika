@@ -1,3 +1,1 @@
-linux user
-
-mostly interested in data science
+I love to understand things
